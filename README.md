@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hey! Im Jeronimo <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h2>
+<h2> Hey! Im Jerónimo <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h2>
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 </div> 
 
