@@ -9,7 +9,7 @@
   <!-- Description -->
 ```diff
 🛠️  Studying DAM2 at IES Venancio Blanco.
-+  ✔️ I’m currently learning Python by my own.
++  ✔️ I’m currently learning Python and Swift.
 #  👨‍💻 I am uploading what was given in class and what I learned on my own.
 -  🚀 I use daily: .java, .py. 
 !  ✨ If you can imagine it, you can program it. 
