@@ -8,12 +8,12 @@
 
   <!-- Description -->
 ```diff
-🛠️  Studying DAM2 at IES Venancio Blanco.
-+  ✔️ I’m currently learning Python and Swift.
-#  👨‍💻 I am uploading what was given in class and what I learned on my own.
--  🚀 I use daily: .java, .py. 
+🛠️  Estudiando DAM2 en IES Venancio Blanco.
++  ✔️ Me encuentro aprendiendo Java, Python y Swift.
+#  👨‍💻 Subo todo lo dado en clase con proyectos personales.
+-  🚀 Uso de forma diaria: .java, .py, sql.
 !  ✨ If you can imagine it, you can program it. 
-@@ 💻 Looking to improve as a programmer. @@
+@@ 💻 Buscando mejorar como programador.
 ```
 ---
 <table align="center">
@@ -70,7 +70,7 @@
   <span>
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=aakunoo&style=for-the-badge" alt="Profile views" height="25" /></a>
     <a href="mailto:contact@jeronimovicente.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
-    <a href="https://www.canva.com/design/DAGUtGmWeC4/RaSgxG-lrwzLZXWLiVXc8g/edit?utm_content=DAGUtGmWeC4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Curriculum" height="25" /></a>
+    <a href="https://www.canva.com/design/DAGbvPLw7OM/7H62yE5YCnN0DN3u7La0oQ/edit?utm_content=DAGbvPLw7OM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Curriculum" height="25" /></a>
     <a href="https://www.linkedin.com/in/jer%C3%B3nimo-vicente-vidal-21b54a244/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
