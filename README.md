@@ -9,15 +9,14 @@
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 <!-- Description -->
-<pre><code class="diff">
+```diff
 🛠️  Estudiando DAM2 en IES Venancio Blanco.
 +  ✔️ Me encuentro aprendiendo Java, Python y Swift.
 #  👨‍💻 Subo todo lo dado en clase con proyectos personales.
 -  🚀 Uso de forma diaria: .java, .py, sql.
 !  ✨ If you can imagine it, you can program it. 
 @@ 💻 Buscando mejorar como programador.
-</code></pre>
-
+```
 ---
 
 <!-- 1. LENGUAJES DE PROGRAMACIÓN -->
