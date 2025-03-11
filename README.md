@@ -14,7 +14,6 @@
 +  ✔️ Programador Junior
 #  👨‍💻 Subo todo lo dado en clase con proyectos personales.
 -  🚀 Uso de forma diaria: .java, .py, .js.
-!  ✨ If you can imagine it, you can program it. 
 @@ 💻 Buscando mejorar como programador.
 ```
 ---
